@@ -1,0 +1,15 @@
+{
+  "name": "@muthu-7080/npmpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "repository": {
+    "url": "https://github.com/muthu-7080/npmpackage"
+  },
+  "author": "",
+  "license": "ISC"
+}
